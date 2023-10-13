@@ -1,8 +1,10 @@
 [![MasterHead](https://img.freepik.com/free-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?size=626&ext=jpg)]
 <h1 align="center">Hi 👋, I'm Omkar Sharma</h1>
 <h3 align="center">Computer science geek from India, Open to new challenges and opportunities to learn.</h3>
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif"
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1586534/screenshots/6056280/media/6eaa6e5c6f3d6fe852e8a6c9b3908b39.gif"
+  
 - 🌱 Currently broadening my mind in **Full Stack Web Development(MERN)**
+  
 - 📫 How to reach me **omkarsharma2821@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
