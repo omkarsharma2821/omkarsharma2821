@@ -2,11 +2,8 @@
 <h1 align="center">Hi 👋, I'm Omkar Sharma</h1>
 <h3 align="center">Computer science geek from India, Open to new challenges and opportunities to learn.</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif"
-
 - 🌱 Currently broadening my mind in **Full Stack Web Development(MERN)**
-
 - 📫 How to reach me **omkarsharma2821@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@omiipandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@omiipandit" height="30" width="40" /></a>
