@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif)]
+[![MasterHead](https://img.freepik.com/free-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?size=626&ext=jpg)]
 <h1 align="center">Hi 👋, I'm Omkar Sharma</h1>
 <h3 align="center">Computer science geek from India, Open to new challenges and opportunities to learn.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif"
