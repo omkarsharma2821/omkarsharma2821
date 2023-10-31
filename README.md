@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Omkar Sharma</h1>
 <h3 align="left">Computer science geek, I am eager to undertake new challenges and pursue opportunities to enhance my skills.</h3>
 
-<img align="right" alt="coding" width="300" height="180" src="https://cdn.dribbble.com/users/4400430/screenshots/11936396/media/b1fb46c216fd61ad3065cbf490e18974.png?resize=800x600&vertical=center">
+<img align="right" alt="coding" width="300" height="200" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
 - 🌱 Currently broadening my skill in **Full Stack Web Development(MERN)**  
 - 📫 How to reach me **omkarsharma2821@gmail.com**
