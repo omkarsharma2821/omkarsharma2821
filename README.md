@@ -32,6 +32,7 @@
 [![microsoft_office](https://img.shields.io/badge/microsoft_office-grey?style=for-the-badge&logo=microsoftoffice&logoColor)](https://twitter.com/)
 [![microsoft_excel](https://img.shields.io/badge/microsoft_excel-purple?style=for-the-badge&logo=microsoftexcel&logoColor)](https://twitter.com/)
 [![visual_studio_code](https://img.shields.io/badge/visual_studio_code-red?style=for-the-badge&logo=visualstudiocode&logoColor)](https://twitter.com/)
+[![canve](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-sharma-6b1060201/)
