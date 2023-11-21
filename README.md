@@ -7,10 +7,10 @@
 - 🌱 Currently broadening my skill in **Full Stack Web Development(MERN)**  
 - 📫 How to reach me **omkarsharma2821@gmail.com**
   
-<h1 align="left">Github History:</h1>
+<h1 align="left">Github History</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsharma2821&show_icons=true&locale=en" alt="omkarsharma2821" /></p>
 
-# Tech Stack
+# 🛠 Tech Stack
 
 ![bootstrap](https://img.shields.io/badge/bootstrap-red?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![react](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor)
