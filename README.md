@@ -1,17 +1,19 @@
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-<h1 align="left">Hi 👋, I'm Omkar</h1>
-<h3 align="left">Computer science geek, I am eager to undertake new challenges and pursue opportunities to enhance my skills.</h3>
+<h1 align="left">Hey! Nice to see you.</h1>
+Welcome to my page! <br>
+I'm Omkar, Fullstack developer and Computer science student, Seeking growth through challenging endeavors and skill-enhancing opportunities.
 
 <img align="right" alt="coding" width="300" height="200" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
 - 🌱 Currently broadening my skill in **Full Stack Web Development(MERN)**  
-- 📫 How to reach me **omkarsharma2821@gmail.com**
+- 📫 How to reach me: **omkarsharma2821@gmail.com**
+- 📄 Know more about me: [Resume](https://drive.google.com/file/d/1masyH_jZzq3oAcskbsJhk7IKb7hFszqM/view?usp=sharing)
+
   
-<h1 align="left">Github History</h1>
+## Github History
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsharma2821&show_icons=true&locale=en" alt="omkarsharma2821" /></p>
 
-# 🛠 Tech Stack
-
+## Things I code with
 ![bootstrap](https://img.shields.io/badge/bootstrap-red?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![react](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor)
 ![javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor)
@@ -36,7 +38,7 @@
 ![mendeley](https://img.shields.io/badge/mendeley-grey?style=for-the-badge&logo=mendeley&logoColor=white)
 ![mendeley](https://img.shields.io/badge/xampp-white?style=for-the-badge&logo=xampp&logoColor)
 
-## 🔗 Links
+## Where to find me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-sharma-6b1060201/)
 [![instagram](https://img.shields.io/badge/INSTAGRAM-1AD1F8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omkarsharmaa_)
 [![twitter](https://img.shields.io/badge/twitter-1ZA1A2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@omiipandit)
