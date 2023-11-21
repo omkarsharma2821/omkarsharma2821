@@ -38,7 +38,7 @@
 [![instagram](https://img.shields.io/badge/INSTAGRAM-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omkarsharmaa_)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@omiipandit)
 [![GFG](https://img.shields.io/badge/GFG-1DA1F2?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/omkarsharmaa)
-[![Leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://leetcode.com/omkarsharma2821/)
+[![Leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/omkarsharma2821/)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsharma2821&" alt="omkarsharma2821" /></p>
