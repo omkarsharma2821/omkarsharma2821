@@ -5,10 +5,10 @@ I'm Omkar, Fullstack developer and Computer science student, Seeking growth thro
 
 <img align="right" alt="coding" width="300" height="200" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
-- 🌱 Currently broadening my skill in **Full Stack Web Development(MERN)**  
+- 🌱 Currently broadening my skill in **Full Stack Web Development(MERN)**
+- 📝 Studying Honours Computer Science from BBDITM-Lucknow, graduating 2024.
 - 📫 How to reach me: **omkarsharma2821@gmail.com**
 - 📄 Know more about me: [Resume](https://drive.google.com/file/d/1masyH_jZzq3oAcskbsJhk7IKb7hFszqM/view?usp=sharing)
-
   
 ## Github History
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsharma2821&show_icons=true&locale=en" alt="omkarsharma2821" /></p>
