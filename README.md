@@ -34,6 +34,7 @@
 [![visual_studio_code](https://img.shields.io/badge/visual_studio_code-red?style=for-the-badge&logo=visualstudiocode&logoColor)](https://twitter.com/)
 [![canve](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 [![mendeley](https://img.shields.io/badge/mendeley-grey?style=for-the-badge&logo=mendeley&logoColor=white)](https://www.mendeley.com/?interaction_required=true)
+[![mendeley](https://img.shields.io/badge/xampp-white?style=for-the-badge&logo=xampp&logoColor)](https://www.mendeley.com/?interaction_required=true)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-sharma-6b1060201/)
