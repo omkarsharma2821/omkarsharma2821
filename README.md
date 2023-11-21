@@ -19,6 +19,10 @@
 <a href="https://instagram.com/omkarsharmaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkarsharmaa_" height="30" width="40" /></a>
 </p>
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-sharma-6b1060201/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@omiipandit)
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsharma2821&" alt="omkarsharma2821" /></p>
