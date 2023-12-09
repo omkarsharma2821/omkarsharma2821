@@ -48,7 +48,7 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 [![Leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/omkarsharma2821/)
 
 ## Github History
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarsharma2821&show_icons=true&locale=en&layout=compact" alt="omkarsharma2821" /></p><br><br><br><br><br><br><br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarsharma2821&show_icons=true&locale=en&layout=compact" alt="omkarsharma2821" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsharma2821&show_icons=true&locale=en" alt="omkarsharma2821" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsharma2821&" alt="omkarsharma2821" /></p> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
