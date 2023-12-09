@@ -17,6 +17,7 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
   
 ## Github History
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsharma2821&show_icons=true&locale=en" alt="omkarsharma2821" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarsharma2821&show_icons=true&locale=en&layout=compact" alt="omkarsharma2821" /></p>
 
 ## Things I deal with
 ![bootstrap](https://img.shields.io/badge/bootstrap-red?style=for-the-badge&logo=bootstrap&logoColor=white)
