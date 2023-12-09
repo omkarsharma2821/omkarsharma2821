@@ -44,9 +44,10 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 ## Where to find me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkarsharmaa/)
 [![instagram](https://img.shields.io/badge/INSTAGRAM-1AD1F8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omkarsharmaa_)
-[![twitter](https://img.shields.io/badge/twitter-1ZA1A2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@omiipandit)
 [![GFG](https://img.shields.io/badge/GFG-red?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/omkarsharmaa)
 [![Leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/omkarsharma2821/)
+[![twitter](https://img.shields.io/badge/twitter-1ZA1A2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@omiipandit)
+
 
 ## Github History
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarsharma2821&show_icons=true&locale=en&layout=compact" alt="omkarsharma2821" /></p>
