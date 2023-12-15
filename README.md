@@ -58,7 +58,7 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsharma2821&" alt="omkarsharma2821" /></p> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
 
-## if you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.
+## If you liked my profile, consider starring ⭐ the repo! Want to customize the template for your own needs? Fork it and make it your own!
 
 
 
