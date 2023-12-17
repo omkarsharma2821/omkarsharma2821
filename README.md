@@ -31,6 +31,7 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 ![MUI](https://img.shields.io/badge/MUI-white?style=for-the-badge&logo=MUI&logoColor)
 ![markdown](https://img.shields.io/badge/Markdown-1DA1F2?style=for-the-badge&logo=markdown&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm&logoColor)
+![Router](https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=React_Router&logoColor)
 ![expressjs](https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express&logoColor)
 ![c](https://img.shields.io/badge/-C?style=for-the-badge&logo=C&logoColor=white)
 ![c++](https://img.shields.io/badge/++-purple?style=for-the-badge&logo=c&logoColor)
