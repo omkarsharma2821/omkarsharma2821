@@ -26,7 +26,7 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 ![postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=white)
 ![git](https://img.shields.io/badge/git-yellow?style=for-the-badge&logo=git&logoColor=white)
 ![nodejs](https://img.shields.io/badge/nodejs-1DA1F2?style=for-the-badge&logo=node.js&logoColor=white)
-![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+![githubb](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![yarn](https://img.shields.io/badge/yarn-1DA1F2?style=for-the-badge&logo=yarn&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-white?style=for-the-badge&logo=MUI&logoColor)
 ![markdown](https://img.shields.io/badge/Markdown-1DA1F2?style=for-the-badge&logo=markdown&logoColor=white)
