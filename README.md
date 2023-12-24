@@ -4,7 +4,7 @@
 Welcome to my page! <br> 
 I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking growth through challenging endeavors and skill-enhancing opportunities.
 
-<img align="right" alt="coding" width="300" height="200" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
+<img align="right" alt="coding" width="300" height="180" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 <br>
 
 - 📝 Studying Honours Computer Science from BBDITM-Lucknow, graduating 2024
