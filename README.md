@@ -10,7 +10,7 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 - 📝 Studying Honours Computer Science from BBDITM-Lucknow, graduating 2024
 - 🌱 Currently broadening my skill in **MERN Stack Development**
 - 📫 How to reach me: **omkarsharma2821@gmail.com**
-- 📄 Know more about me: [Resume](https://drive.google.com/file/d/1I-Rac9iAjfpddEX5RGbcABXv-ZRw6LGn/view?usp=sharing)
+- 📄 Know more about me: [Resume](https://drive.google.com/file/d/1r42aIsIcwFnnwze7OLzp7sB6Yv_DrbjH/view?usp=sharing)
 - 💬 Ask me about: MERN Stack
   <br>
   <br>
