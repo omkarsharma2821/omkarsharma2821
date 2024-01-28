@@ -14,7 +14,7 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 - 📄 Know more about me: [Resume](https://drive.google.com/file/d/1r42aIsIcwFnnwze7OLzp7sB6Yv_DrbjH/view?usp=sharing)
 - 💬 Ask me about: MERN Stack
   <br>
-  <br>
+  <br> 
   <br>
   
 ## Things I deal with
