@@ -1,7 +1,7 @@
 <img align="center" alt="coding" width="1050" height="360" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
-<h1 align="left">Hey! Nice to see you</h1> 
+<h1 align="left">Hey! Nice to see you</h1>  
 Welcome to my page!  
 I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking growth through challenging endeavors and skill-enhancing opportunities.
   
