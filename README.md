@@ -54,8 +54,6 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 [![coding ninja](https://img.shields.io/badge/codingninjas-1DA1F2?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/omkarsharma2821
 )
 
-https://www.codingninjas.com/studio/profile/omkarsharma2821
-
 ## Github History
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarsharma2821&show_icons=true&locale=en&layout=compact&hide=less,PHP" alt="omkarsharma2821" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsharma2821&show_icons=true&locale=en" alt="omkarsharma2821" /></p>
