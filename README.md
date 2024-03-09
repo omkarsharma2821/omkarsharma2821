@@ -42,8 +42,8 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 ![canva](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva&logoColor=white)
 ![mendeley](https://img.shields.io/badge/mendeley-grey?style=for-the-badge&logo=mendeley&logoColor=white)
 ![xampp](https://img.shields.io/badge/xampp-white?style=for-the-badge&logo=xampp&logoColor)
-![netlify](https://img.shields.io/badge/netlify-white?style=for-the-badge&logo=netlify&logoColor)
-![render](https://img.shields.io/badge/render-white?style=for-the-badge&logo=render&logoColor) 
+![netlify](https://img.shields.io/badge/netlify-0B62C8?style=for-the-badge&logo=netlify&logoColor)
+![render](https://img.shields.io/badge/render-0A66C2?style=for-the-badge&logo=render&logoColor) 
 
 
 ## Where to find me
