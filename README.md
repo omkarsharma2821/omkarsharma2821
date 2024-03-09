@@ -50,7 +50,7 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 [![portfolio](https://img.shields.io/badge/portfolio-purple?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-weut.onrender.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkarsharmaa/)
 [![instagram](https://img.shields.io/badge/INSTAGRAM-1AD1F8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omkarsharmaa_)
-[![GFG](https://img.shields.io/badge/GFG-red?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/omkarsharmaa)
+[![GFG](https://img.shields.io/badge/Geeks_For_Geeks-red?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/omkarsharmaa)
 [![Leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/omkarsharma2821/)
 [![coding_ninja](https://img.shields.io/badge/coding_ninjas-0A66C2?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/omkarsharma2821
 )
