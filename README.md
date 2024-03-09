@@ -47,7 +47,7 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 
 
 ## Where to find me
-[![portfolio](https://img.shields.io/badge/my_portfolio-purple?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-weut.onrender.com/)
+[![portfolio](https://img.shields.io/badge/portfolio-purple?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-weut.onrender.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkarsharmaa/)
 [![instagram](https://img.shields.io/badge/INSTAGRAM-1AD1F8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omkarsharmaa_)
 [![GFG](https://img.shields.io/badge/GFG-red?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/omkarsharmaa)
