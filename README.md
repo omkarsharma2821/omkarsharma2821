@@ -55,9 +55,9 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 )
 
 ## Github History
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarsharma2821&show_icons=true&locale=en&layout=compact&hide=less,PHP" alt="omkarsharma2821" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsharma2821&show_icons=true&locale=en" alt="omkarsharma2821" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsharma2821&" alt="omkarsharma2821" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarsharma2821&show_icons=true&locale=en&layout=compact&theme=radical&hide=less,PHP" alt="omkarsharma2821" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsharma2821&show_icons=true&locale=en&theme=radical" alt="omkarsharma2821" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsharma2821&&theme=radical" alt="omkarsharma2821" /></p>
 
 ### *If you liked my profile, consider starring ⭐the repo! Want to customize the template for your own needs? Fork it and make it your own!*
 
