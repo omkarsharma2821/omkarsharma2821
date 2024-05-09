@@ -16,8 +16,6 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 - 💬 Ask me about: MERN Stack
 - 📄 Know more: [Resume](https://drive.google.com/file/d/1VmRu3nDP515RBfPQhm6MzzwytuyxXW61/view?usp=sharing)
   <br>
-  <br> 
-  <br>
   
 ## Things I deal with
 ![bootstrap](https://img.shields.io/badge/bootstrap-red?style=for-the-badge&logo=bootstrap&logoColor=white)
