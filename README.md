@@ -1,17 +1,20 @@
 <img src="https://raw.githubusercontent.com/andrekolodochka/andrekolodochka/439a8c71a6b35e9a164cdfe50af58fee214748c9/github-contribution-grid-snake.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
+<h1 align="left">Hi 👋, I'm Omkar Sharma</h1>  
+<h3 align="left">Computer science and Engineering geek, Open to new challenges and opportunities to learn.</h3>
 
-<h1 align="left">Hey! Nice to see you</h1>  
 Welcome to my page!  
 I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking growth through challenging endeavors and skill-enhancing opportunities.
 <img align="right" alt="coding" width="200" height="180" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif">
 <br> 
 
 - 📝 Studying Honours Computer Science from BBDITM-Lucknow, graduating 2024
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 🌱 Currently broadening my skill in **MERN Stack Development**
 - 📫 How to reach me: **omkarsharma2821@gmail.com**
-- 📄 Know more about me: [Resume](https://drive.google.com/file/d/1VmRu3nDP515RBfPQhm6MzzwytuyxXW61/view?usp=sharing)
+- ⚡ For Fun Games, Dance, Gyming, Memes
 - 💬 Ask me about: MERN Stack
+- 📄 Know more: [Resume](https://drive.google.com/file/d/1VmRu3nDP515RBfPQhm6MzzwytuyxXW61/view?usp=sharing)
   <br>
   <br> 
   <br>
