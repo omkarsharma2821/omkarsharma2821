@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/andrekolodochka/andrekolodochka/439a8c71a6b35e9a164cdfe50af58fee214748c9/github-contribution-grid-snake.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
-<h1 align="left">Hi 👋, I'm Omkar Sharma</h1>  
-<h3 align="left">Computer science and Engineering geek, Open to new challenges and opportunities to learn.</h3>
-
-Welcome to my page!  
-I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking growth through challenging endeavors and skill-enhancing opportunities.
+<h1 align="center">Hi 👋, I'm Omkar Sharma</h1>  
+<h3 align="center">Computer science and Engineering geek, Open to new challenges and opportunities to learn.</h3>
+<h4 align= "center">
+Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 12th🥇 Rank @GFG | Institute 1st🥇 Rank @Coding Ninja | 200+ Problems Solved on DSA | Seeking growth through challenging endeavors ❤️
+</h4>
 <img align="right" alt="coding" width="200" height="180" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif">
 <br> 
 
