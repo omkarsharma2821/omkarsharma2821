@@ -55,7 +55,7 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 [![coding_ninja](https://img.shields.io/badge/coding_ninjas-0A66C2?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/omkarsharma2821)
 
 ## All DSA Badges @LeetCode
-<p align="center"><img src="https://leetcode-badge-showcase.vercel.app/api?username=omkarsharma2821&theme=onedark" alt="LeetCode Badges" height="350" /></p>
+<p align="center"><img src="https://leetcode-badge-showcase.vercel.app/api?username=omkarsharma2821&theme=onedark" alt="LeetCode Badges" height="400" /></p>
     
 ## Github History
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsharma2821&&theme=radical" alt="omkarsharma2821" width="400" /></p>
