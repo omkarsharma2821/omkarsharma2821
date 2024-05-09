@@ -58,8 +58,8 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 <p align="center"><img src="https://leetcode-badge-showcase.vercel.app/api?username=omkarsharma2821&theme=onedark" alt="LeetCode Badges" height="500" /></p>
     
 ## Github History
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsharma2821&&theme=radical" alt="omkarsharma2821" width="600" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsharma2821&show_icons=true&locale=en&theme=radical" alt="omkarsharma2821" width="450" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarsharma2821&show_icons=true&locale=en&layout=compact&theme=radical&hide=less,PHP" alt="omkarsharma2821"  width="400" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsharma2821&&theme=radical" alt="omkarsharma2821" width="400" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsharma2821&show_icons=true&locale=en&theme=radical" alt="omkarsharma2821" width="400" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarsharma2821&show_icons=true&locale=en&layout=compact&theme=radical&hide=less,PHP" alt="omkarsharma2821"  width="355" /></p>
 
 
 
