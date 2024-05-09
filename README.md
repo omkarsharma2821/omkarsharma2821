@@ -46,7 +46,6 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 ![netlify](https://img.shields.io/badge/netlify-0B62C8?style=for-the-badge&logo=netlify&logoColor)
 ![render](https://img.shields.io/badge/render-0A66C2?style=for-the-badge&logo=render&logoColor) 
 
-
 ## Where to find me
 [![portfolio](https://img.shields.io/badge/portfolio-purple?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-weut.onrender.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkarsharmaa/)
@@ -55,8 +54,13 @@ I'm Omkar Sharma, Fullstack developer and Computer science student.<br>Seeking g
 [![Leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/omkarsharma2821/)
 [![coding_ninja](https://img.shields.io/badge/coding_ninjas-0A66C2?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/omkarsharma2821)
 
+## All DSA Badges @LeetCode
+<p align="center"><img src="https://leetcode-badge-showcase.vercel.app/api?username=omkarsharma2821&theme=onedark" alt="LeetCode Badges" height="500" /></p>
+    
 ## Github History
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarsharma2821&show_icons=true&locale=en&layout=compact&theme=radical&hide=less,PHP" alt="omkarsharma2821" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsharma2821&show_icons=true&locale=en&theme=radical" alt="omkarsharma2821" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsharma2821&&theme=radical" alt="omkarsharma2821" /></p>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=omkarsharma2821&theme=onedark" alt="LeetCode Badges"/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsharma2821&&theme=radical" alt="omkarsharma2821" width="600" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsharma2821&show_icons=true&locale=en&theme=radical" alt="omkarsharma2821" width="500" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarsharma2821&show_icons=true&locale=en&layout=compact&theme=radical&hide=less,PHP" alt="omkarsharma2821"  width="445" /></p>
+
+
+
+
