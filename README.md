@@ -16,6 +16,9 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 - 💬 Ask me about: MERN Stack
 - 📄 Know more: [Resume](https://drive.google.com/file/d/1VmRu3nDP515RBfPQhm6MzzwytuyxXW61/view?usp=sharing)
   <br>
+
+## All DSA Badges @LeetCode
+<p align="center"><img src="https://leetcode-badge-showcase.vercel.app/api?username=omkarsharma2821&theme=onedark" alt="LeetCode Badges" /></p>
   
 ## Things I deal with
 ![bootstrap](https://img.shields.io/badge/bootstrap-red?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -58,8 +61,6 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsharma2821&show_icons=true&locale=en&theme=radical" alt="omkarsharma2821" /><p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsharma2821&&theme=radical" alt="omkarsharma2821" width="500" /></p>
 
-## All DSA Badges @LeetCode
-<p align="left"><img src="https://leetcode-badge-showcase.vercel.app/api?username=omkarsharma2821&theme=onedark" alt="LeetCode Badges" /></p>
 
 
 
