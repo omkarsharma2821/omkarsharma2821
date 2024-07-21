@@ -14,7 +14,7 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 - 📫 How to reach me: **omkarsharma2821@gmail.com**
 - ⚡ For Fun Games, Dance, Gyming, Memes
 - 💬 Ask me about: MERN Stack
-- 📄 Know more: [Resume](https://drive.google.com/file/d/1AJB1dFWwoYlkTcGD1TavuPaxbdGft1y6/view?usp=sharing)
+- 📄 Know more: [Resume](https://drive.google.com/file/d/1Kbypme-jN3D8rq_MjVtnAmKPGTeZ7Dfp/view?usp=sharing)
   <br>
 
 ## All DSA Badges @LeetCode
