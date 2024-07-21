@@ -1,4 +1,3 @@
-
 <img src="https://raw.githubusercontent.com/andrekolodochka/andrekolodochka/439a8c71a6b35e9a164cdfe50af58fee214748c9/github-contribution-grid-snake.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
 <h1 align="center">Hi 👋, I'm Omkar Sharma</h1>  
@@ -15,7 +14,7 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 - 📫 How to reach me: **omkarsharma2821@gmail.com**
 - ⚡ For Fun Games, Dance, Gyming, Memes
 - 💬 Ask me about: MERN Stack
-- 📄 Know more: [Resume](https://drive.google.com/file/d/1VmRu3nDP515RBfPQhm6MzzwytuyxXW61/view?usp=sharing)
+- 📄 Know more: [Resume](https://drive.google.com/file/d/1AJB1dFWwoYlkTcGD1TavuPaxbdGft1y6/view?usp=sharing)
   <br>
 
 ## All DSA Badges @LeetCode
