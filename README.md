@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
 <h1 align="center">Hi 👋, I'm Omkar Sharma</h1>  
 <h3 align="center">Computer science and Engineering geek, Open to new challenges and opportunities to learn.</h3>
-<h3 align= "center">
+<!-- <h3 align= "center">
 Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 12th🥇 Rank @GFG | Institute 1st🥇 Rank @Coding Ninja | 200+ Problems Solved on DSA | Seeking growth through challenging endeavors ❤️
-</h3>
+</h3> -->
 <img align="right" alt="coding" width="200" height="180" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif">
 <br> 
 
