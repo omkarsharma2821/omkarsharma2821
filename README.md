@@ -1,12 +1,17 @@
 
-<img src="https://raw.githubusercontent.com/andrekolodochka/andrekolodochka/439a8c71a6b35e9a164cdfe50af58fee214748c9/github-contribution-grid-snake.svg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
+<div align="center">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" alt="Description of the gif">
+</div>
+<!-- <div align = "center">
+  <img width="300" height="300" src = "https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+</div> -->
+
 <h1 align="center">Hi 👋, I'm Omkar Sharma</h1>  
 <h3 align="center">Computer science and Engineering geek, Open to new challenges and opportunities to learn.</h3>
 <!-- <h3 align= "center">
 Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 12th🥇 Rank @GFG | Institute 1st🥇 Rank @Coding Ninja | 200+ Problems Solved on DSA | Seeking growth through challenging endeavors ❤️
 </h3> -->
-<img align="right" alt="coding" width="200" height="180" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif">
+<img align="right" alt="coding" width="250" height="240" src="https://user-images.githubusercontent.com/74038190/216656987-9b3a52af-79d3-418c-8789-579955588e68.gif">
 <br> 
 
 - 📝 Studying Honours Computer Science from BBDITM-Lucknow, graduating 2024
@@ -16,6 +21,7 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 - ⚡ For Fun Games, Dance, Gyming, Memes
 - 💬 Ask me about: MERN Stack
 - 📄 Know more: [Resume](https://drive.google.com/file/d/1Kbypme-jN3D8rq_MjVtnAmKPGTeZ7Dfp/view?usp=sharing)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
   <br>
 
 ## All DSA Badges @LeetCode
@@ -61,6 +67,7 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarsharma2821&show_icons=true&locale=en&layout=compact&theme=radical&hide=less,PHP" alt="omkarsharma2821"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsharma2821&show_icons=true&locale=en&theme=radical" alt="omkarsharma2821" /><p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsharma2821&&theme=radical" alt="omkarsharma2821" width="500" /></p>
+<img src="https://raw.githubusercontent.com/andrekolodochka/andrekolodochka/439a8c71a6b35e9a164cdfe50af58fee214748c9/github-contribution-grid-snake.svg">
 
 
 
