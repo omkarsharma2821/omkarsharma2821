@@ -1,7 +1,7 @@
 <div align = "center">
   <img width="280" height="260" src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif">
 </div>
-<br>
+<!-- <br> -->
 <!-- <div align="center">
   <img width="300" height="300" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" alt="Description of the gif">
 </div> -->
@@ -23,7 +23,7 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 - 📫 How to reach me: **omkarsharma2821@gmail.com**
 - ⚡ For Fun Games, Dance, Gyming, Memes
 - 💬 Ask me about: MERN Stack
-- 📄 Know more: [Resume](https://drive.google.com/file/d/1Kbypme-jN3D8rq_MjVtnAmKPGTeZ7Dfp/view?usp=sharing)
+- 📄 Know more: [Resume](https://drive.google.com/file/d/1LmxqzxnL8fPr2QBZInyKf_a84It2Ctuc/view?usp=sharing)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
   <br>
 
