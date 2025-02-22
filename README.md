@@ -17,12 +17,12 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 <img align="right" alt="coding" width="250" height="240" src="https://user-images.githubusercontent.com/74038190/216656987-9b3a52af-79d3-418c-8789-579955588e68.gif">
 <br> 
 
-- 📝 Studying Honours Computer Science from BBDITM-Lucknow, graduating 2024
+- 📝 Completed B.Tech Computer Science from BBDITM-Lucknow, 2024.
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 🌱 Currently broadening my skill in **MERN Stack Development**
+- 🌱 Currently broadening my skill in **Cloud and DevOps**
 - 📫 How to reach me: **omkarsharma2821@gmail.com**
 - ⚡ For Fun Games, Dance, Gyming, Memes
-- 💬 Ask me about: MERN Stack
+- 💬 Ask me about: Cloud Computing and Cloud technologies
 - 📄 Know more: [Resume](https://drive.google.com/file/d/1LmxqzxnL8fPr2QBZInyKf_a84It2Ctuc/view?usp=sharing)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
   <br>
