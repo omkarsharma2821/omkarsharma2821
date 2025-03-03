@@ -31,6 +31,9 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 ![cloud](https://img.shields.io/badge/public_cloud-red?style=for-the-badge&logo=cloud&logoColor)
 ![azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure&logoColor)
 ![aws](https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=aws&logoColor)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.credly.com/badges/YOUR_LINUX_CERTIFICATION_URL)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.credly.com/badges/YOUR_WINDOWS_CERTIFICATION_URL)
+![git](https://img.shields.io/badge/git-yellow?style=for-the-badge&logo=git&logoColor=white)
 ![react](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor)
 ![javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor)
 ![mongodb](https://img.shields.io/badge/mongodb-blue?style=for-the-badge&logo=mongodb&logoColor)
@@ -38,7 +41,6 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 ![html5](https://img.shields.io/badge/Html5-violet?style=for-the-badge&logo=html5&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-red?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=white)
-![git](https://img.shields.io/badge/git-yellow?style=for-the-badge&logo=git&logoColor=white)
 ![nodejs](https://img.shields.io/badge/nodejs-1DA1F2?style=for-the-badge&logo=node.js&logoColor=white)
 ![githubb](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![yarn](https://img.shields.io/badge/yarn-1DA1F2?style=for-the-badge&logo=yarn&logoColor=white)
@@ -49,6 +51,7 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 ![expressjs](https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express&logoColor)
 ![c](https://img.shields.io/badge/-C?style=for-the-badge&logo=C&logoColor=white)
 ![c++](https://img.shields.io/badge/++-purple?style=for-the-badge&logo=c&logoColor)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](YOUR_PYTHON_CERTIFICATION_URL)
 ![microsoft_office](https://img.shields.io/badge/microsoft_office-grey?style=for-the-badge&logo=microsoftoffice&logoColor)
 ![microsoft_excel](https://img.shields.io/badge/microsoft_excel-purple?style=for-the-badge&logo=microsoftexcel&logoColor)
 ![visual_studio_code](https://img.shields.io/badge/visual_studio_code-red?style=for-the-badge&logo=visualstudiocode&logoColor)
@@ -65,7 +68,10 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 
 
 ## All DSA Badges @LeetCode
-<p align="center"><img src="https://leetcode-badge-showcase.vercel.app/api?username=omkarsharma2821&theme=onedark" alt="LeetCode Badges" /></p>
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=omkarsharma2821&theme=onedark" alt="LeetCode Badges" width="300px" />
+</p>
+<!-- <p align="center"><img src="https://leetcode-badge-showcase.vercel.app/api?username=omkarsharma2821&theme=onedark" alt="LeetCode Badges" /></p> -->
 
 ## Where to find me
 [![portfolio](https://img.shields.io/badge/portfolio-purple?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-weut.onrender.com/)
