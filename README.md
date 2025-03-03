@@ -31,12 +31,15 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 <p align="center"><img src="https://leetcode-badge-showcase.vercel.app/api?username=omkarsharma2821&theme=onedark" alt="LeetCode Badges" /></p>
   
 ## Things I deal with
-![bootstrap](https://img.shields.io/badge/bootstrap-red?style=for-the-badge&logo=bootstrap&logoColor=white)
+![cloud](https://img.shields.io/badge/public_cloud-red?style=for-the-badge&logo=cloud&logoColor)
+![azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure&logoColor)
+![aws](https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=aws&logoColor)
 ![react](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor)
 ![javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor)
 ![mongodb](https://img.shields.io/badge/mongodb-blue?style=for-the-badge&logo=mongodb&logoColor)
 ![css3](https://img.shields.io/badge/css3-purple?style=for-the-badge&logo=css3&logoColor=white)
 ![html5](https://img.shields.io/badge/Html5-violet?style=for-the-badge&logo=html5&logoColor=white)
+![bootstrap](https://img.shields.io/badge/bootstrap-red?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=white)
 ![git](https://img.shields.io/badge/git-yellow?style=for-the-badge&logo=git&logoColor=white)
 ![nodejs](https://img.shields.io/badge/nodejs-1DA1F2?style=for-the-badge&logo=node.js&logoColor=white)
