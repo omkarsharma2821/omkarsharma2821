@@ -26,9 +26,6 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 - 📄 Know more: [Resume](https://drive.google.com/file/d/1LmxqzxnL8fPr2QBZInyKf_a84It2Ctuc/view?usp=sharing)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
   <br>
-
-## All DSA Badges @LeetCode
-<p align="center"><img src="https://leetcode-badge-showcase.vercel.app/api?username=omkarsharma2821&theme=onedark" alt="LeetCode Badges" /></p>
   
 ## Things I deal with
 ![cloud](https://img.shields.io/badge/public_cloud-red?style=for-the-badge&logo=cloud&logoColor)
@@ -60,6 +57,15 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 ![xampp](https://img.shields.io/badge/xampp-white?style=for-the-badge&logo=xampp&logoColor)
 ![netlify](https://img.shields.io/badge/netlify-0B62C8?style=for-the-badge&logo=netlify&logoColor)
 ![render](https://img.shields.io/badge/render-0A66C2?style=for-the-badge&logo=render&logoColor) 
+
+## 🏆 Certifications
+
+[![Azure](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/OmkarSharma-1199/51ECBCCE4FE6FF43?sharingId=ED5AC550E5F204F0)
+[![GitHub](https://img.shields.io/badge/GitHub_Foundations-24292F?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/45a34fc4-9085-4abe-8c26-e92f7a2a3f5e/public_url)
+
+
+## All DSA Badges @LeetCode
+<p align="center"><img src="https://leetcode-badge-showcase.vercel.app/api?username=omkarsharma2821&theme=onedark" alt="LeetCode Badges" /></p>
 
 ## Where to find me
 [![portfolio](https://img.shields.io/badge/portfolio-purple?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-weut.onrender.com/)
