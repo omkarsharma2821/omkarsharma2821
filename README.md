@@ -76,11 +76,12 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 ## Where to find me
 [![portfolio](https://img.shields.io/badge/portfolio-purple?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-weut.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkarsharmaa/)
-[![instagram](https://img.shields.io/badge/INSTAGRAM-1AD1F8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omkarsharmaa_)
 [![GFG](https://img.shields.io/badge/Geeks_For_Geeks-red?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/omkarsharmaa)
 [![Leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/omkarsharma2821/)
+[![Dev](https://img.shields.io/badge/DEV_Community-black?style=for-the-badge&logo=Dev&logoColor=white)](https://dev.to/omkarsharma2821)
 [![coding_ninja](https://img.shields.io/badge/coding_ninjas-0A66C2?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/omkarsharma2821)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omkarsharma2821)
+[![instagram](https://img.shields.io/badge/INSTAGRAM-1AD1F8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omkarsharmaa_)
     
 ## Github History
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarsharma2821&show_icons=true&locale=en&layout=compact&theme=radical&hide=less,PHP" alt="omkarsharma2821"/></p>
