@@ -17,7 +17,6 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 <img align="right" alt="coding" width="250" height="240" src="https://user-images.githubusercontent.com/74038190/216656987-9b3a52af-79d3-418c-8789-579955588e68.gif">
 <br> 
 
-- 📝 Completed B.Tech Computer Science from BBDITM-Lucknow, 2024.
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 🌱 Currently broadening my skill in **Cloud and DevOps**
 - 📫 How to reach me: **omkarsharma2821@gmail.com**
