@@ -61,7 +61,7 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 ![render](https://img.shields.io/badge/render-0A66C2?style=for-the-badge&logo=render&logoColor) 
 
 ## 🏆 Certifications
-
+[![Azure](https://img.shields.io/badge/Microsoft_Certified-Azure_Administrator_Associate-F078E4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/6CFAEDE2349DA764?sharingId=ED5AC550E5F204F0)
 [![Azure](https://img.shields.io/badge/Microsoft_Certified-_SC_900-F57C00?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/8F9A9FBA16C72CEC?sharingId=ED5AC550E5F204F0)
 [![Azure](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/OmkarSharma-1199/51ECBCCE4FE6FF43?sharingId=ED5AC550E5F204F0)
 [![GitHub](https://img.shields.io/badge/GitHub_Foundations-24292F?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/45a34fc4-9085-4abe-8c26-e92f7a2a3f5e/public_url)
