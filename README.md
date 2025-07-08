@@ -21,8 +21,8 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 - 🌱 Currently broadening my skill in **Cloud and DevOps**
 - 📫 How to reach me: **omkarsharma2821@gmail.com**
 - ⚡ For Fun Games, Dance, Gyming, Memes
-- 💬 Ask me about: Cloud Computing and Cloud technologies
-- 📄 Know more: [Resume](https://drive.google.com/file/d/1LmxqzxnL8fPr2QBZInyKf_a84It2Ctuc/view?usp=sharing)
+- 💬 Ask me about: Cloud Computing and Cloud technologies MERN Stack
+<!-- - 📄 Know more: [Resume](https://drive.google.com/file/d/1LmxqzxnL8fPr2QBZInyKf_a84It2Ctuc/view?usp=sharing) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
   <br>
   
