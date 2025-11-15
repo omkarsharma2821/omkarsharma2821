@@ -1,5 +1,8 @@
-<div align = "center">
+<!-- <div align = "center">
   <img width="280" height="260" src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif">
+</div> -->
+<div align="center">
+  <img width="1000" height="860" src="https://drive.google.com/uc?export=view&id=1hNshjAEU8vK-pdHm9ptR3VFkkreYOprD" width="280" height="260" />
 </div>
 <!-- <br> -->
 <!-- <div align="center">
@@ -21,7 +24,7 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 - 🌱 Currently broadening my skill in **Cloud and DevOps**
 - 📫 How to reach me: **omkarsharma2821@gmail.com**
 - ⚡ For Fun Games, Dance, Gyming, Memes
-- 💬 Ask me about: Cloud Computing and Cloud technologies MERN Stack
+- 💬 Ask me about: **Development, Deployment, Automation and AI Agents**
 <!-- - 📄 Know more: [Resume](https://drive.google.com/file/d/1VPLbowhpL4cqqJovvhSxKTVQCv457X2n/view?usp=sharing) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
   <br>
@@ -56,15 +59,49 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 ![visual_studio_code](https://img.shields.io/badge/visual_studio_code-red?style=for-the-badge&logo=visualstudiocode&logoColor)
 ![canva](https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva&logoColor=white)
 ![mendeley](https://img.shields.io/badge/mendeley-grey?style=for-the-badge&logo=mendeley&logoColor=white)
-![xampp](https://img.shields.io/badge/xampp-white?style=for-the-badge&logo=xampp&logoColor)
+![xampp](https://img.shields.io/badge/xampp-FDF5E6?style=for-the-badge&logo=xampp&logoColor)
 ![netlify](https://img.shields.io/badge/netlify-0B62C8?style=for-the-badge&logo=netlify&logoColor)
 ![render](https://img.shields.io/badge/render-0A66C2?style=for-the-badge&logo=render&logoColor) 
+![docker](https://img.shields.io/badge/docker-FDF5E6?style=for-the-badge&logo=docker&logoColor) 
 
 ## 🏆 Certifications
-[![Azure](https://img.shields.io/badge/Microsoft_Certified-Azure_Administrator_Associate-F078E4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/6CFAEDE2349DA764?sharingId=ED5AC550E5F204F0)
-[![Azure](https://img.shields.io/badge/Microsoft_Certified-_SC_900-F57C00?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/8F9A9FBA16C72CEC?sharingId=ED5AC550E5F204F0)
-[![Azure](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/OmkarSharma-1199/51ECBCCE4FE6FF43?sharingId=ED5AC550E5F204F0)
-[![GitHub](https://img.shields.io/badge/GitHub_Foundations-24292F?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/45a34fc4-9085-4abe-8c26-e92f7a2a3f5e/public_url)
+<div align="center">
+
+  <a href="https://learn.microsoft.com/en-gb/users/omkarsharma-1199/credentials/b66430e6c7667285?ref=https%3A%2F%2Fportfolio-weut.onrender.com%2F">
+    <img src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" width="120" />
+  </a>
+
+  <a href="https://learn.microsoft.com/en-gb/users/omkarsharma-1199/credentials/a762b91143bad0a1?ref=https%3A%2F%2Fportfolio-weut.onrender.com%2F">
+    <img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="120" />
+  </a>
+
+  <a href="https://learn.microsoft.com/en-gb/users/omkarsharma-1199/credentials/6cfaede2349da764?ref=https%3A%2F%2Fportfolio-weut.onrender.com%2F">
+    <img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="120" />
+  </a>
+
+  <a href="https://learn.microsoft.com/en-gb/users/omkarsharma-1199/credentials/51ecbcce4fe6ff43?ref=https%3A%2F%2Fportfolio-weut.onrender.com%2F">
+    <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="120" />
+  </a>
+
+  <a href="https://learn.microsoft.com/en-gb/users/omkarsharma-1199/credentials/8f9a9fba16c72cec?ref=https%3A%2F%2Fportfolio-weut.onrender.com%2F">
+    <img src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="120" />
+  </a>
+
+  <a href="https://www.credly.com/badges/8159ed6b-643f-40a1-ae35-ffd81124fa83/public_url">
+    <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="120" />
+  </a>
+
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EB7EC19AEDA67B3BA4AE64F1B2D1AFFF9E16E92AD9C996D3D21E69EF54803214">
+    <img src="https://images.credly.com/size/680x680/images/2f009687-632f-40bf-ac66-3ea83ffd664d/Oracle-Certification-badge_OC-Professional600X600.png" width="120" />
+  </a>
+  
+  <a href="https://www.credly.com/badges/45a34fc4-9085-4abe-8c26-e92f7a2a3f5e/public_url">
+    <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="120" />
+  </a>
+</div>
+
+<h3 align="center">Click on badges to verify credentials</h3>
+
 
 
 ## All DSA Badges @LeetCode
