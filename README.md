@@ -13,17 +13,17 @@
 </div> -->
 
 <h1 align="center">Hi 👋, I'm Omkar Sharma</h1>  
-<h3 align="center">Computer science and Engineering geek, Open to new challenges and opportunities to learn.</h3>
+<h3 align="center">Cloud & DevOps Engineer | Developer | IT Trainer | Content Strategist</h3>
 <!-- <h3 align= "center">
 Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 12th🥇 Rank @GFG | Institute 1st🥇 Rank @Coding Ninja | 200+ Problems Solved on DSA | Seeking growth through challenging endeavors ❤️
 </h3> -->
 <img align="right" alt="coding" width="250" height="240" src="https://user-images.githubusercontent.com/74038190/216656987-9b3a52af-79d3-418c-8789-579955588e68.gif">
 <br> 
 
-- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+<!--- 👨‍💻 Love to learn new technologies and to explore new sets of areas.-->
 - 🌱 Currently broadening my skill in **Cloud and DevOps**
 - 📫 How to reach me: **omkarsharma2821@gmail.com**
-- ⚡ For Fun Games, Dance, Gyming, Memes
+- ⚡ For Fun Cooking, Dance, Gyming, Memes
 - 💬 Ask me about: **Development, Deployment, Automation and AI Agents**
 <!-- - 📄 Know more: [Resume](https://drive.google.com/file/d/1VPLbowhpL4cqqJovvhSxKTVQCv457X2n/view?usp=sharing) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
