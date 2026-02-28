@@ -36,6 +36,8 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 ![cloud](https://img.shields.io/badge/public_cloud-red?style=for-the-badge&logo=cloud&logoColor)
 ![azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure&logoColor)
 ![aws](https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=aws&logoColor)
+![jenkins](https://img.shields.io/badge/jenkins-FDF5E6?style=for-the-badge&logo=jenkins&logoColor)
+![githubaction](https://img.shields.io/badge/github_action-grey?style=for-the-badge&logo=github_action&logoColor)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.credly.com/badges/YOUR_LINUX_CERTIFICATION_URL)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.credly.com/badges/YOUR_WINDOWS_CERTIFICATION_URL)
 ![git](https://img.shields.io/badge/git-yellow?style=for-the-badge&logo=git&logoColor=white)
@@ -47,7 +49,7 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 ![bootstrap](https://img.shields.io/badge/bootstrap-red?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=white)
 ![nodejs](https://img.shields.io/badge/nodejs-1DA1F2?style=for-the-badge&logo=node.js&logoColor=white)
-![githubb](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![yarn](https://img.shields.io/badge/yarn-1DA1F2?style=for-the-badge&logo=yarn&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-white?style=for-the-badge&logo=MUI&logoColor)
 ![markdown](https://img.shields.io/badge/Markdown-1DA1F2?style=for-the-badge&logo=markdown&logoColor=white)
@@ -76,6 +78,10 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 
   <a href="https://learn.microsoft.com/en-gb/users/omkarsharma-1199/credentials/a762b91143bad0a1?ref=https%3A%2F%2Fportfolio-weut.onrender.com%2F">
     <img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="120" />
+  </a>
+
+   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/A04985B245717D15?sharingId=ED5AC550E5F204F0">
+    <img src="https://images.credly.com/size/680x680/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="120" />
   </a>
 
   <a href="https://learn.microsoft.com/en-gb/users/omkarsharma-1199/credentials/6cfaede2349da764?ref=https%3A%2F%2Fportfolio-weut.onrender.com%2F">
