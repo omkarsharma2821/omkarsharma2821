@@ -28,6 +28,8 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 - 📫 How to reach me: **omkarsharma2821@gmail.com**
 - ⚡ For Fun Cooking, Dance, Gyming, Memes
 - 💬 Ask me about: **Development, Deployment, Automation and AI Agents**
+- 🚀 AWS Community Builder (Dev Tools category)
+  - Mentor, speaker, and active in the global AWS community
 <!-- - 📄 Know more: [Resume](https://drive.google.com/file/d/1VPLbowhpL4cqqJovvhSxKTVQCv457X2n/view?usp=sharing) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
   <br>
