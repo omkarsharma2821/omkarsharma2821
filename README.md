@@ -73,7 +73,7 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 
 ## 🏆 Certifications
 <div align="center">
-
+  
   <a href="https://learn.microsoft.com/en-gb/users/omkarsharma-1199/credentials/b66430e6c7667285?ref=https%3A%2F%2Fportfolio-weut.onrender.com%2F">
     <img src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" width="120" />
   </a>
@@ -109,6 +109,11 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
   <a href="https://www.credly.com/badges/45a34fc4-9085-4abe-8c26-e92f7a2a3f5e/public_url">
     <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="120" />
   </a>
+
+   <a href="#">
+    <img src="https://www.0100000101010111010100110110001101100010.com/cb_logo.png" width="120" />
+  </a>
+  
 </div>
 
 <h3 align="center">Click on badges to verify credentials</h3>
