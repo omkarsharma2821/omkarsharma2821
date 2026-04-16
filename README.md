@@ -5,7 +5,7 @@
   <img width="1000" height="860" src="https://drive.google.com/uc?export=view&id=1hNshjAEU8vK-pdHm9ptR3VFkkreYOprD" width="280" height="260" />
 </div> -->
 <div align="center">
-  <img width="1000" height="860" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kh56qr0qyeki8b5a8q00.png" width="280" height="260" />
+  <img width="1000" height="260" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kh56qr0qyeki8b5a8q00.png" />
 </div> 
 <!-- <br> -->
 <!-- <div align="center">
