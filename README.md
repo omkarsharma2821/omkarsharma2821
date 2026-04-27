@@ -1,25 +1,9 @@
-<!-- <div align = "center">
-  <img width="280" height="260" src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif">
-</div> -->
-<!-- <div align="center">
-  <img width="1000" height="860" src="https://drive.google.com/uc?export=view&id=1hNshjAEU8vK-pdHm9ptR3VFkkreYOprD" width="280" height="260" />
-</div> -->
 <div align="center">
-  <img width="1000" height="260" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kh56qr0qyeki8b5a8q00.png" />
+  <img width="1000" height="260" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bt3lxr6w5da6gg3yjfcu.png" />
 </div> 
-<!-- <br> -->
-<!-- <div align="center">
-  <img width="300" height="300" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" alt="Description of the gif">
-</div> -->
-<!-- <div align = "center">
-  <img width="300" height="300" src = "https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
-</div> -->
 
-<h1 align="center">Hi 👋, I'm Omkar Sharma</h1>  
+<h1 align="center">Hi 👋, I'm Omkar Sharma</h1>
 <h3 align="center">Cloud & DevOps Engineer | Developer | IT Trainer | Content Strategist</h3>
-<!-- <h3 align= "center">
-Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 12th🥇 Rank @GFG | Institute 1st🥇 Rank @Coding Ninja | 200+ Problems Solved on DSA | Seeking growth through challenging endeavors ❤️
-</h3> -->
 <img align="right" alt="coding" width="250" height="240" src="https://user-images.githubusercontent.com/74038190/216656987-9b3a52af-79d3-418c-8789-579955588e68.gif">
 <br> 
 
@@ -112,6 +96,10 @@ Problem Solving Enthusiast 🧠 | 186+DaysOfCode on @LeetCode 🔥 | Institute 1
 
    <a href="#">
     <img src="https://www.0100000101010111010100110110001101100010.com/cb_logo.png" width="120" />
+  </a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/1D19002002007BA0?sharingId=ED5AC550E5F204F0">
+    <img src="https://images.credly.com/size/680x680/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="120" />
   </a>
   
 </div>
