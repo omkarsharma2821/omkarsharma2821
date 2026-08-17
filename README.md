@@ -3,7 +3,7 @@
 </div> 
 
 <h1 align="center">Hi 👋, I'm Omkar Sharma</h1>
-<h3 align="center">Cloud & DevOps Engineer | Developer | IT Trainer | Content Strategist</h3>
+<h3 align="center">Cloud & DevOps Engineer | Developer | Corporate Trainer | Content Strategist</h3>
 <img align="right" alt="coding" width="250" height="240" src="https://user-images.githubusercontent.com/74038190/216656987-9b3a52af-79d3-418c-8789-579955588e68.gif">
 <br> 
 
@@ -20,7 +20,7 @@
   
 ## Things I deal with
 ![cloud](https://img.shields.io/badge/public_cloud-red?style=for-the-badge&logo=cloud&logoColor)
-![azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure&logoColor)
+![azure](https://img.shields.io/badge/miazure-black?style=for-the-badge&logo=azure&logoColor)
 ![aws](https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=aws&logoColor)
 ![jenkins](https://img.shields.io/badge/jenkins-FDF5E6?style=for-the-badge&logo=jenkins&logoColor)
 ![githubaction](https://img.shields.io/badge/github_action-grey?style=for-the-badge&logo=github_action&logoColor)
@@ -54,6 +54,12 @@
 ![netlify](https://img.shields.io/badge/netlify-0B62C8?style=for-the-badge&logo=netlify&logoColor)
 ![render](https://img.shields.io/badge/render-0A66C2?style=for-the-badge&logo=render&logoColor) 
 ![docker](https://img.shields.io/badge/docker-FDF5E6?style=for-the-badge&logo=docker&logoColor) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-FDF5E6?style=for-the-badge&logo=kubernetes&logoColor) 
+![Prometheus](https://img.shields.io/badge/Prometheus-FDF5E6?style=for-the-badge&logo=Prometheus&logoColor) 
+![Grafana](https://img.shields.io/badge/Grafana-FDF5E6?style=for-the-badge&logo=Grafana&logoColor) 
+![Sonarqube](https://img.shields.io/badge/Sonarqube-1DA1F2?style=for-the-badge&logo=Sonarqube&logoColor) 
+![Maven](https://img.shields.io/badge/Maven-1DA1F2?style=for-the-badge&logo=Maven&logoColor) 
+
 
 ## 🏆 Certifications
 <div align="center">
