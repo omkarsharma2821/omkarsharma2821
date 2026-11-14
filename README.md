@@ -132,7 +132,7 @@
 [![instagram](https://img.shields.io/badge/INSTAGRAM-1AD1F8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omkarsharmaa_)
     
 ## Github History
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=omkarsharma2821&show=prs_merged,prs_merged_percentage)
+![Omkar's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=omkarsharma2821&show=prs_merged,prs_merged_percentage)
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsharma2821&&theme=radical" alt="omkarsharma2821" width="500" /></p>
 <img src="https://raw.githubusercontent.com/andrekolodochka/andrekolodochka/439a8c71a6b35e9a164cdfe50af58fee214748c9/github-contribution-grid-snake.svg">
 
