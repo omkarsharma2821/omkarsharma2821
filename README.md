@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" width="150" /> </p>
+
 <div align="center">
   <img width="1000" height="260" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bt3lxr6w5da6gg3yjfcu.png" />
 </div> 
@@ -15,8 +17,7 @@
 - 🚀 AWS Community Builder (Dev Tools category)
 - 👨‍💻 Mentor, speaker, and active in the global AWS community
 <!-- - 📄 Know more: [Resume](https://drive.google.com/file/d/1VPLbowhpL4cqqJovvhSxKTVQCv457X2n/view?usp=sharing) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsharma2821&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsharma2821" /> </p>
-  <br>
+<br>
   
 ## Things I deal with
 ![cloud](https://img.shields.io/badge/public_cloud-red?style=for-the-badge&logo=cloud&logoColor)
@@ -101,7 +102,7 @@
   </a>
 
    <a href="#">
-    <img src="https://www.0100000101010111010100110110001101100010.com/cb_logo.png" width="120" />
+    <img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" width="120" />
   </a>
 
   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/1D19002002007BA0?sharingId=ED5AC550E5F204F0">
